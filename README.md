@@ -26,10 +26,7 @@ This project sets up the foundational environment for securely connecting Python
 ├── requirements.txt        # Package dependencies (neo4j, python-dotenv)
 ├── verify_connection.py    # Main Python script performing connection & health checks
 ├── README.md               # Detailed module documentation
-└── neo4j-python-setup/     # VS Code starter template project
-    ├── README.md           # Starter project documentation
-    ├── verify_connection.py
-    └── requirements.txt
+
 ```
 
 ### Key Python Dependencies
@@ -117,14 +114,6 @@ Connecting to Neo4j Aura...
  Query Result: Neo4j connection active and healthy!
  Database Server: Neo4j/5.x-aura
 ```
-
----
-
-## 🛠️ Sub-Project Starter Template
-
-For a standalone VS Code project template configured for rapid prototyping, see the [`neo4j-python-setup/`](neo4j-python-setup) sub-folder.
-
----
 
 ## 🎤 How to Explain This Project to Technical Reviewers
 
